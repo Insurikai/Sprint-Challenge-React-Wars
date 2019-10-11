@@ -6,3 +6,4 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+*{border:0;padding:0;box-sizing:border-box;}
